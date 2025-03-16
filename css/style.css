@@ -30,7 +30,7 @@
 .parallaxContainer {
 	background: #d4d6d8; /*THIS IS FOR THE CENTRE AREA WHERE EVENTS & REGISTRATION STARTS*/
 	overflow: visible;
-  opacity: 0.8; 
+  opacity: 0.95; 
 	margin: 0px;
 }
 
